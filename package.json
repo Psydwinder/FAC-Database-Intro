@@ -1,0 +1,24 @@
+{
+  "name": "fac-database-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Psydwinder/FAC-Database-Intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Psydwinder/FAC-Database-Intro/issues"
+  },
+  "homepage": "https://github.com/Psydwinder/FAC-Database-Intro#readme",
+  "dependencies": {
+    "better-sqlite3": "^8.0.1"
+  }
+
+  
+}
